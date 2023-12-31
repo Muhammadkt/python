@@ -1,0 +1,16 @@
+print("4*5=",4*5)
+print("11%2=",11%2)
+print("3**2=",3**2)
+print("3**4=",3**4)
+nyc_balance=188
+bal_pitt=248
+total_distance=nyc_balance+bal_pitt
+print(total_distance)
+mph=65
+time=total_distance/mph
+print(time)
+print(round(time,2))
+print(round(time,3))
+print(10+2*3)
+print(6-5.7)
+print(round(6-5.7,3))
